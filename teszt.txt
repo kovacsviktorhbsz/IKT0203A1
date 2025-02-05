@@ -2,7 +2,15 @@ teszt
 ujgjhgjhg
 jkghjk
 ggjhgjhgj
+ggjhgjhgj
 sada
 sdklfjskldjflsdkjf
 zozo egy kotsog
+<<<<<<< HEAD
 iga
+=======
+sebök
+nandi szoros a talpad
+
+>>>>>>> 325591b5eb48046f77eafd31a3b311dee5c5f186
+ciganyok az osztalyban
